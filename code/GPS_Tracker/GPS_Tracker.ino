@@ -24,9 +24,9 @@ float spd;       //Variable  to store the speed
 float sats;      //Variable to store no. of satellites response
 String bearing;  //Variable to store orientation or direction of GPS
 
-char auth[] = "719690edd6324a27bd634b9a69262b68";              //Your Project authentication key
-char ssid[] = "Home wifi";                                       // Name of your network (HotSpot or Router name)
-char pass[] = "homewifi@isa@aafreen72";                                      // Corresponding Password
+char auth[] = "BLYNK AUTH Key";              //Your Project authentication key
+char ssid[] = "wifi name";                                       // Name of your network (HotSpot or Router name)
+char pass[] = "wifi password";                                      // Corresponding Password
 
 
 
